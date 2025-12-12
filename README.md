@@ -75,9 +75,3 @@ Here are some of my key repositories worth checking out:
 
 ---
 
-> 💡 _Tip:_ Showcase your projects, skills, stats and make it easy for recruiters to find your contact details — just like many **top README profiles** you can find in curated lists online. :contentReference[oaicite:1]{index=1}
-
---- 
-
-✨ **Want it more dynamic (like showing latest blog posts, live visitor counter, or Spotify in README)? Just ask!**
-::contentReference[oaicite:2]{index=2}
