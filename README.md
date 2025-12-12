@@ -70,7 +70,7 @@ Here are some of my key repositories worth checking out:
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitamandal-ai" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:mandalankita9832@gmail.com">📧 Email</a> •
-  <a href="https://www.instagram.com/_ankita.codes" target="_blank">📸 Instagram</a>
+  <a href="https://www.instagram.com/ankita_._20_" target="_blank">📸 Instagram</a>
 </p>
 
 ---
